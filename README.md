@@ -1,1 +1,1 @@
-# Aim game - https://codepen.io/maksimarus/pen/PoQyNjM
+# Aim game - https://codepen.io/maksimarus/pen/OJQayYg
